@@ -1,0 +1,31 @@
+.main {
+  padding: 10rpx;
+}
+
+.video_info {
+  margin_top: 10rpx;
+}
+
+.video_info video {
+  width: 100%;
+}
+
+.video_title {
+  display: flex;
+  justify-content: space-between;
+  font-size: 35rpx;
+}
+
+.video_detail {
+  margin-top: 5rpx;
+  font-size: 28rpx;
+}
+
+.video_detail text {
+  color: #666;
+  margin-left: 5rpx;
+}
+
+.video_detail .author {
+  color: #000;
+}
